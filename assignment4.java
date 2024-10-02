@@ -104,6 +104,7 @@ public class assignment4 {
         Scanner sc = new Scanner(System.in);
         ArrayList allMedia = new ArrayList<>();
         boolean quit = false;
+        System.out.println("[Codec Manager]");
         do {
             System.out.println("1-Add Image" +
                     "\n2-Add Music" +
